@@ -1,8 +1,17 @@
+# Simple React Native Calculator
+
+## Introduction
+
+This is an educational project, `react-native-calculator`, is a mobile application built with React Native CLI. It aims to provide a simple and intuitive interface for calculator.
+
+|![Screenshot-1.png](assets%2Fscreenshots%2FScreenshot-1.png)|![Screenshot-2.png](assets%2Fscreenshots%2FScreenshot-2.png)|![Screenshot-3.png](assets%2Fscreenshots%2FScreenshot-3.png)|
+|---|---|-|
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+> **Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
 ## Step 1: Start the Metro Server
 
